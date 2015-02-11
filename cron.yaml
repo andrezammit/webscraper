@@ -1,0 +1,5 @@
+cron:
+- description: 89.7 Bay Currently Playing Check
+  url: /
+  schedule: every 1 minutes from 06:00 to 00:00
+  timezone: Europe/Malta
